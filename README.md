@@ -91,7 +91,10 @@ This project aims to provide data-driven insights for better demand planning and
 ---
 
 ## 📸 Dashboard Preview
+**PAGE 1:**
 <img width="1372" height="768" alt="Screenshot 2026-03-20 023118" src="https://github.com/user-attachments/assets/94f647bf-a84d-4684-9657-8b6995161b46" />
+
+**PAGE 2**
 <img width="1373" height="769" alt="Screenshot 2026-03-20 023102" src="https://github.com/user-attachments/assets/fee6bd63-30e9-4d90-9a50-a094b687070f" />
 
 ---
